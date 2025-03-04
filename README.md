@@ -1,3 +1,3 @@
 # discord_bot
 
-using discord documentation
+creating a discord bot using discord documentation
